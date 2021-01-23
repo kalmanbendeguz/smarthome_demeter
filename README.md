@@ -1,7 +1,7 @@
 # smarthome_demeter
-Az otthoni házunkban futó Node-Red projekt
+Az otthoni házunkban futó Node-Red projekt.
 
-### Ez egy backup célból létrehozott repository
+### Ez egy backup célból létrehozott repository.
 
 #### Visszaállítási lépések:
 1. src mappában az `npm install` parancs kiadása.
